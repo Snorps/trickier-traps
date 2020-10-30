@@ -1,0 +1,69 @@
+{
+  "name": "repurposed_structures:run_down_house/side_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+        "weight": 10,
+        "element": {
+            "location": "trickier_traps:desert_pyramid_vanilla",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 10,
+        "element": {
+            "location": "trickier_traps:desert_pyramid_huskpit",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 10,
+        "element": {
+            "location": "trickier_traps:desert_pyramid_huskdrop",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "trickier_traps:desert_pyramid_lavadrop",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "trickier_traps:desert_pyramid_huskroom",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 2,
+        "element": {
+            "location": "trickier_traps:desert_pyramid_huskpit_moretnt",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 2,
+        "element": {
+            "location": "trickier_traps:desert_pyramid_lavadrop_huskpit",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+  ]
+}

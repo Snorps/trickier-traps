@@ -1,0 +1,19 @@
+modLoader="javafml" #mandatory
+loaderVersion="[32,)" #mandatory (32 is current forge version)
+license="MIT License"
+
+[[mods]] #mandatory
+modId="trickier_traps" #mandatory
+version="${version}" #mandatory
+displayName="Trickier Traps" #mandatory
+credits="Special thanks to nhwhite3118 for helping out!"
+authors="Snorps" #optional
+description='''
+More varied traps in pyramids. Based on TelepathicGrunt's structure example mod.
+'''
+
+# makes sure our mod does not be attempted to be ran on older version of Minecraft and explodes
+[[dependencies.trickier_traps]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.3, 1.17.0)"
