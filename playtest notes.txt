@@ -1,0 +1,8 @@
+luigi never triggered the trap in the one with the room of falling husks
+some people like going into pyramids through the front door, even if it's more work than going in another way
+the one with the tnt at the bottom that drops you into a husk filled room works like a charm
+make some traps look more like the vanilla temple by including the tnt
+
+todo
+we need names for the different variants we can all remember
+go through all the structures making sure the mobs are set to persistent

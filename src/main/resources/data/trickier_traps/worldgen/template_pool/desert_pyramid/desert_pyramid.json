@@ -5,15 +5,6 @@
     {
         "weight": 10,
         "element": {
-            "location": "trickier_traps:desert_pyramid_vanilla",
-            "processors": "minecraft:empty",
-            "projection": "rigid",
-            "element_type": "minecraft:single_pool_element"
-        }
-    },
-    {
-        "weight": 10,
-        "element": {
             "location": "trickier_traps:desert_pyramid_huskpit",
             "processors": "minecraft:empty",
             "projection": "rigid",
@@ -32,7 +23,7 @@
     {
         "weight": 5,
         "element": {
-            "location": "trickier_traps:desert_pyramid_lavadrop",
+            "location": "trickier_traps:desert_pyramid_vanilla",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
@@ -50,6 +41,15 @@
     {
         "weight": 2,
         "element": {
+            "location": "trickier_traps:desert_pyramid_lavadrop",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
             "location": "trickier_traps:desert_pyramid_huskpit_moretnt",
             "processors": "minecraft:empty",
             "projection": "rigid",
@@ -57,7 +57,7 @@
         }
     },
     {
-        "weight": 2,
+        "weight": 1,
         "element": {
             "location": "trickier_traps:desert_pyramid_lavadrop_huskpit",
             "processors": "minecraft:empty",
